@@ -58,3 +58,41 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.ghoulia {
+  max-width: 200px;
+  float: right;
+}
+p{
+  margin-left: 400px;
+  color: #EC7A9B;
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 15px;
+}
+.pholder1 {
+  transform: rotate(-20deg);
+  width: 150px;
+  margin-left: 500px;
+  padding: 15px;
+}
+.pholder2 {
+  transform: rotate(10deg);
+  width: 150px;
+  margin-left: 700px;
+  margin-top: -150px;
+  padding: 15px;
+}
+h1 {
+  margin-left: 900px;
+  margin-top: -150px;
+  color: #EC7A9B;
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 15px;
+}
