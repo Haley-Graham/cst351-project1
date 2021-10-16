@@ -1,0 +1,98 @@
+body {
+  background-color: #CCFFFF;
+}
+#navigation.sticky {
+  position: fixed;
+  top: 0;
+}
+.vine {
+  width: 350px;
+  position: relative;
+  top: -20px;
+}
+.nav_content a {
+  color: white;
+  font-family: "museo", serif;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+#nav_home {
+  transform: rotate(-50.446deg);
+  z-index: 5;
+  position: fixed;
+  top: 110px;
+  left: 40px;
+}
+#nav_about {
+  transform: rotate(10deg);
+  z-index: 5;
+  position: fixed;
+  top: 165px;
+  left: 235px;
+}
+#nav_contact {
+  transform: rotate(10deg);
+  z-index: 5;
+  position: fixed;
+  top: 305px;
+  left: 75px;
+}
+#nav_portfolio {
+  transform: rotate(25deg);
+  z-index: 5;
+  position: fixed;
+  top: 415px;
+  left: 190px;
+}
+#nav_projects {
+  transform: rotate(-50deg);
+  z-index: 5;
+  position: fixed;
+  top: 575px;
+  left: 65px;
+}
+#header img{
+  height: 100px;
+  display: block;
+  margin-left: 235px;
+}
+.bcard_front {
+  transform: rotate(-20deg);
+  width: 300px;
+  position: relative;
+  margin-left: 400px;
+  margin-top: 75px;
+  padding: 15px;
+}
+.bcard_back {
+  transform: rotate(-10deg);
+  width: 300px;
+  position: relative;
+  margin-left: 650px;
+  margin-top: -25px;
+  padding: 15px;
+}
+h1 {
+  margin-left: 400px;
+  max-width: 300px;
+  color: #9999CC;
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 15px;
+}
+h2 {
+  margin-left: 800px;
+  margin-top: -225px;
+  max-width: 300px;
+  color: #9999CC;
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 15px;
+}
