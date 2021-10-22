@@ -9,6 +9,7 @@ html body {
   width: 350px;
   position: relative;
   top: -20px;
+  left: 5px;
 }
 .nav_content a {
   color: white;
@@ -45,12 +46,12 @@ html body {
   top: 415px;
   left: 190px;
 }
-#nav_projects {
+#nav_next_prev {
   transform: rotate(-50deg);
   z-index: 5;
   position: fixed;
-  top: 575px;
-  left: 65px;
+  top: 570px;
+  left: 80px;
 }
 #header img{
   height: 100px;
@@ -90,6 +91,10 @@ html body {
 }
 .placeholder {
   max-width: 650px;
+  opacity: 100%;
+}
+.placeholder2 {
+  max-width: 300px;
   opacity: 100%;
 }
 p {

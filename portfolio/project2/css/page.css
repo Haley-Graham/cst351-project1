@@ -1,0 +1,108 @@
+html body {
+  background-color: #FFFFCC;
+}
+#navigation.sticky {
+  position: fixed;
+  top: 0;
+}
+.vine {
+  width: 350px;
+  position: relative;
+  top: -20px;
+  left: 5px;
+}
+.nav_content a {
+  color: white;
+  font-family: "museo", serif;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+#nav_home {
+  transform: rotate(-50.446deg);
+  z-index: 5;
+  position: fixed;
+  top: 105px;
+  left: 35px;
+}
+#nav_about {
+  transform: rotate(10deg);
+  z-index: 5;
+  position: fixed;
+  top: 165px;
+  left: 235px;
+}
+#nav_contact {
+  transform: rotate(10deg);
+  z-index: 5;
+  position: fixed;
+  top: 300px;
+  left: 70px;
+}
+#nav_portfolio {
+  transform: rotate(25deg);
+  z-index: 5;
+  position: fixed;
+  top: 415px;
+  left: 190px;
+}
+#nav_next_prev {
+  transform: rotate(-50deg);
+  z-index: 5;
+  position: fixed;
+  top: 570px;
+  left: 60px;
+}
+#header img{
+  height: 100px;
+  display: block;
+  margin-left: 235px;
+}
+
+
+#header h1{
+  color: #EC7A9B;
+  font-family: "eckmannpsych", sans-serif;
+  font-weight: 400;
+  font-style: small;
+  font-size: 100px;
+  margin-left: 235px;
+}
+#content h2{
+  color: #9999CC;
+  font-family: "museo", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  text-align: center;
+}
+#content h3{
+  color: #9999CC;
+  font-family: "museo", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+  text-align: center;
+  padding: 15px;
+}
+#content .container-fluid {
+  margin-left: 400px;
+  max-width: 1000px;
+}
+.placeholder {
+  max-width: 650px;
+  opacity: 100%;
+}
+.placeholder2 {
+  max-width: 300px;
+  opacity: 100%;
+}
+p {
+  color: #EC7A9B;
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 15px;
+}
