@@ -88,9 +88,9 @@ html body {
   margin-left: 400px;
   max-width: 1000px;
 }
-.arch {
-  width: 250px;
-  padding: 15px;
+.placeholder {
+  max-width: 650px;
+  opacity: 100%;
 }
 p {
   color: #EC7A9B;
