@@ -97,6 +97,13 @@ html body {
   max-width: 300px;
   opacity: 100%;
 }
+.divider{
+  max-width: 500px;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 p {
   color: #EC7A9B;
   font-family: century-gothic, sans-serif;
