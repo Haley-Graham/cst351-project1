@@ -92,10 +92,12 @@ html body {
 .placeholder {
   max-width: 650px;
   opacity: 100%;
+  border-radius: 25px;
 }
 .placeholder2 {
   max-width: 300px;
   opacity: 100%;
+  border-radius: 25px;
 }
 .divider{
   max-width: 500px;

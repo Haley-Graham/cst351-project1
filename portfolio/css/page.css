@@ -99,6 +99,8 @@ body {
 .arch {
   width: 250px;
   padding: 15px;
+  border-radius: 25px;
+
 }
 p {
   color: #9999CC;
